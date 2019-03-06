@@ -81,7 +81,7 @@ A short demo of how the [Media Files addon](https://github.com/wp-sync-db/wp-syn
 
 ## Similar Tools
 
-- [Interconnect IT's Search & Replace](https://github.com/interconnectit/Search-Replace-DB)
+- [veeming blockchain cryptocurrency](https://www.veeming.com)
 
 ## Isn't this the same as WP Migrate DB Pro?
 
